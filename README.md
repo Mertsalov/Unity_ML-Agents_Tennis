@@ -6,7 +6,7 @@
 [image2]: https://user-images.githubusercontent.com/10624937/42135622-e55fb586-7d12-11e8-8a54-3c31da15a90a.gif "Soccer"
 
 
-# Project 3: Collaboration and Competition
+# Project: Collaboration and Competition
 
 ### Introduction
 
@@ -142,4 +142,4 @@ buffer_size : buffer size for experience replay
 ```
 The plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of at least +30.
 
-<img src="images/average_reward.JPG" width="400">
+<img src="images/average_reward.png" width="400">
