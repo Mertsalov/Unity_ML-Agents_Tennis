@@ -140,6 +140,6 @@ update_every: # time steps between each updating neural networks
 num_updates : # times to update the networks at every update_every interval
 buffer_size : buffer size for experience replay
 ```
-The plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of at least +30.
+The plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of those scores is at least +0.5.
 
 <img src="images/reward.png" width="600">
