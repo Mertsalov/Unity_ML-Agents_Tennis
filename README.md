@@ -142,4 +142,4 @@ buffer_size : buffer size for experience replay
 ```
 The plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of at least +30.
 
-<img src="images/average_reward.png" width="500">
+<img src="images/reward.png">
